@@ -1,0 +1,76 @@
+body{
+    background-color: lightgrey;
+  }
+  .navbar{
+      background-color: rgba(60, 28, 119, 0.884);
+      margin: 0px;
+       padding: 0px;
+  }
+  li a{
+      color:white;
+      font-weight:500;
+      font-family:Cambria;
+  }
+  ul{
+      margin: 0px;
+  }
+  div{
+    padding-top: 0px;
+    margin-left: 50px;
+    
+}
+.mar2{
+    margin-top: 95px;
+}
+.btn{
+    float: right;
+}
+.btn-group{
+    padding: 0px;
+    margin-bottom: 5px;
+    
+}
+.mar3{
+    margin-left: 280px;
+    background-color: rgba(0, 128, 0, 0.692);
+    height: 350px;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.f1{
+    margin-left: 140px;
+    margin-bottom: 50px;
+    color: rgb(18, 8, 82);
+
+}
+form{
+    margin-right: 20px;
+}
+.but1{
+margin-right: 60px;
+border-radius: 50%;
+}
+button{
+    background-color: rgba(255, 20, 145, 0.808);
+    border-radius:50%;
+}
+.f2{
+margin: 0px;
+color: darkred;
+font-weight: bold;
+padding-left: 80px;
+padding-right: 80px;
+}
+input[type=email],input[type=password]{
+    box-sizing:border-box;
+    outline:none;
+    border: none;
+    background-color:rgb(115, 233, 115);
+  color: rgb(71, 110, 168);
+  border-bottom: 1px dotted rgb(102, 2, 102);
+  margin: 0px;
+}
+label{
+    color:rgb(133, 24, 75);
+}
